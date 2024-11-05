@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/mvshah10">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Meghal+Shah;Computer Science Student+%7C+Software+Engineer+Intern; AI+%7C+Data Science+%7C+Machine+Learning+%7C+DevSecOps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Meghal+Shah;Computer Science Student+%7C+Software+Engineer+Intern; AI+%7C+Machine+Learning+%7C+Data Science+%7C+Researcher" alt="Typing SVG" />
 </a>
 <br/>
 
@@ -29,13 +29,11 @@
 </a>
 </p>
 
-* 📖 Pursuing B.Tech in Computer Science & Engineering @ [Charotar University of Science & Technology](https://charusat.ac.in/).
-
-* 💻 Currently working as Software Engineer Intern @ [Infopercept Consulting Pvt. Ltd.](https://www.infopercept.com/).
+* 📖 Pursuing M.Eng in Systems & Technology (specializing in Automation and Smart Systems) @ [McMaster University](https://www.mcmaster.ca/).
 
 * 🎓 Exploring **AI** and **Machine Learning** in-depth.
 
-* 💡 Let's join forces to create a meaningful impact in AI-driven security.
+* 💡 Let's join forces to create a meaningful impact in AI-driven industries.
 
 ### 🖥️ My Major Projects
 <table>
